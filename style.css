@@ -1,0 +1,45 @@
+* {
+  font-family: "Caveat", cursive;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+}
+#box1 {
+  /* width: 100px;
+  height: 50%; */
+  /* margin: 2rem, 1rem; */
+  border-image: url();
+  border-image: fill;
+}
+#img {
+  height: 500px;
+  border: solid 10px white;
+  padding: 2rem;
+}
+#align {
+  text-align: left;
+  border: 10px solid green;
+  max-height: 500px;
+
+  background-color: aqua;
+}
+#gray {
+  border: 10px solid white;
+  height: 500px;
+  width: 500px;
+  border-block-end-color: aliceblue;
+  margin: 300px;
+  padding: 90px;
+  border-style: double;
+}
+#hacker {
+  border: 5px solid red;
+  height: 100px;
+  width: 100px;
+  padding: 100px;
+  margin: 50pxpx;
+  border-style: dotted;
+}
